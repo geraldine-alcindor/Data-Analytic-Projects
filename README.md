@@ -2,9 +2,9 @@
 # About Me:
 
 ![Headshot](https://github.com/user-attachments/assets/92858994-85c9-4188-bac2-391f3da400e9)
-Hi, I’m Geraldine Alcindor
-I’m a Data Analytics graduate student with a background in digital marketing, retail, and merchandising. Over the past 8 years, I’ve worked in roles where I combined business insights with customer behavior analysis to drive sales and improve performance. Now, I’m building on that foundation by applying data analytics, SQL, Python, and visualization tools to uncover actionable insights and solve business problems.
+Hi, I’m Geraldine — a data analytics professional with a background in digital marketing and retail operations. I enjoy bridging the gap between business strategy and data science by creating projects that turn complex datasets into clear, actionable insights.
 
+I hold a Bachelor’s degree in Digital Marketing and am completing a Master’s degree in Data Analytics, where I specialize in SQL, Python, Tableau, Power BI, and statistical analysis. My work combines technical precision with an understanding of how businesses operate, making my portfolio projects both practical and impactful.
 #  What I Do:
 
 Analyze datasets with Python (Pandas, Matplotlib, Scikit-learn) and SQL
@@ -17,15 +17,13 @@ Blend marketing knowledge with data science for customer-focused strategies
 
 # Featured Projects:
 
-Fast Food Marketing Campaign A/B Test – Identified most effective promotion using statistical analysis
+* Fast Food Marketing Campaign A/B Test – Compared multiple promotions using statistical testing and visual dashboards to determine the most effective strategy.
 
-Luxury Cosmetics SQL Analysis – Revealed revenue-driving demographics for pop-up stores
+* Retail Customer Segmentation (Clustering) – Applied unsupervised learning techniques to segment customers by purchasing behavior for targeted marketing.
 
-Consumer Spending Trends – Time-series dashboards tracking 15 years of spending
+* E-commerce Website A/B Testing – Analyzed conversion rates between control and treatment groups to assess whether design changes improved engagement.
 
-Perfume E-Commerce Market Analysis – Highlighted top countries driving global sales
-
-BMW Sales Data Analysis – Found key drivers of model performance across regions
+* SQL Data Exploration & Visualization – Cleaned, explored, and visualized datasets with actionable recommendations for business improvements.
 
 # Career Goal:
 To grow into a Data Analyst / Marketing Analytics role where I can bridge the gap between business strategy and data science, using insights to optimize performance and customer engagement.
